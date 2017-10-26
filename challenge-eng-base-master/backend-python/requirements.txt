@@ -1,0 +1,4 @@
+flask
+PyMySQL
+flask-bcrypt
+
